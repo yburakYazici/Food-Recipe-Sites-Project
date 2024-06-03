@@ -1,1 +1,1 @@
-Proje Yemek Tarifi İnternet Sitesi'dir. Bu projenin asıl amacı AWS kullanarak koşturulmasıdır. Bu proje doğrudan Amazon Sunucusu "http://ec2-3-71-90-223.eu-central-1.compute.amazonaws.com/" tarafından çalıştırılmaktadır. Ayrıca S3 başta olmak üzere birçok AWS kullanılmıştır.
+Proje Yemek Tarifi Sitesi'dir. Bu projenin asıl amacı AWS kullanarak koşturulmasıdır. Bu proje doğrudan Amazon Sunucusu "http://ec2-3-71-90-223.eu-central-1.compute.amazonaws.com/" tarafından çalıştırılmaktadır. Ayrıca S3 başta olmak üzere birçok AWS kullanılmıştır.

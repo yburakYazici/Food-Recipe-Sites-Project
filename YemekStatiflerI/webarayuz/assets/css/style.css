@@ -1,0 +1,111 @@
+.logo{
+    width: 140px;
+}
+
+.site-content{
+    margin-top: 10px;
+}
+
+.search{
+    margin-left: 400px;
+}
+.addrecipt{
+    margin-left: 300px;
+}
+
+.header2{
+    margin-top: 70px;
+}
+
+.categories{
+    background: #949494e2;
+}
+.image1{
+    width: 50px;
+    height: 100px;
+}
+.list-group{
+    width: 300px;
+    height: 300px;
+}
+.list-group-item{
+    text-decoration-color:gray;
+    background-color: gray;
+    
+}
+.contact-form{
+    margin-top:1px;
+    margin-right: 10px;
+}
+
+.search-button{
+    margin-top: 8px;
+}
+.image {
+    border-radius: 15px;
+    background-color: gray;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+.login{
+    margin-top: 400px;
+}
+
+.login-form{
+    margin-top: 30px;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.login-form h1{
+    text-align: center;
+}
+body {
+    background-color: #949494e2;
+    padding-top: 80px; /* Navbar'ın altında kalmaması için yeterli padding ekleyin */
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.header img.logo {
+    width: 40px;
+    height: 40px;
+}
+
+.search-button {
+    margin-left: 10px;
+}
+
+.panel-body h4 {
+    color: #949494e2;
+}
+
+.recipe-card {
+    margin-bottom: 30px;
+}
+
+.recipe-card img {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.new-recipes-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #949494e2;
+    background-color: #949494e2;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+@media (max-width: 991px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
